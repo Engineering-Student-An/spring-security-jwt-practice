@@ -11,6 +11,6 @@ public class AdminController {
     @GetMapping("/admin")
     public String admin(){
 
-        return "Admin Controller";
+        return "인가 성공!";
     }
 }
