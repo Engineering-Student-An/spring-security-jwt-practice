@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2068dbd2-ae4e-4a1d-8ca8-3bc1a96b6bc9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../spring-security/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-security/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../excelread/src/main/java/practice/excelread/ReadExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../excelread/src/main/java/practice/excelread/ReadExcel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../login/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../login/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../login/src/main/java/practice/login/controller/CookieLoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../login/src/main/java/practice/login/controller/CookieLoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../login/src/main/java/practice/login/controller/SessionLoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../login/src/main/java/practice/login/controller/SessionLoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../login/src/main/java/practice/login/domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../login/src/main/java/practice/login/domain/UserRole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../login/src/main/java/practice/login/domain/dto/JoinRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../login/src/main/java/practice/login/domain/dto/JoinRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../login/src/main/java/practice/login/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../login/src/main/java/practice/login/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../login/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../login/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../login/src/main/resources/templates/admin.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../login/src/main/resources/templates/admin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../login/src/main/resources/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../login/src/main/resources/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../login/src/main/resources/templates/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../login/src/main/resources/templates/info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../login/src/main/resources/templates/join.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../login/src/main/resources/templates/join.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../login/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../login/src/main/resources/templates/login.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2aeYGRARtpWblSgWsb7SdkpAecB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="SpringSecurityJwtApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="spring-security-jwt.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="study.springsecurityjwt.SpringSecurityJwtApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2068dbd2-ae4e-4a1d-8ca8-3bc1a96b6bc9" name="Changes" comment="" />
+      <created>1704680415839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704680415839</updated>
+      <workItem from="1704680417461" duration="12353000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
