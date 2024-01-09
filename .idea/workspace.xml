@@ -4,22 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2068dbd2-ae4e-4a1d-8ca8-3bc1a96b6bc9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../spring-security/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-security/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../excelread/src/main/java/practice/excelread/ReadExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../excelread/src/main/java/practice/excelread/ReadExcel.java" afterDir="false" />
+    <list default="true" id="2068dbd2-ae4e-4a1d-8ca8-3bc1a96b6bc9" name="Changes" comment="second commit&#10;feat: 스프링 시큐리티 JWT &#10;세션 정보 가져오기">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../login/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../login/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../login/src/main/java/practice/login/controller/CookieLoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../login/src/main/java/practice/login/controller/CookieLoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../login/src/main/java/practice/login/controller/SessionLoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../login/src/main/java/practice/login/controller/SessionLoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../login/src/main/java/practice/login/domain/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../login/src/main/java/practice/login/domain/UserRole.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../login/src/main/java/practice/login/domain/dto/JoinRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../login/src/main/java/practice/login/domain/dto/JoinRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../login/src/main/java/practice/login/repository/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../login/src/main/java/practice/login/service/UserService.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../login/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../login/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../login/src/main/resources/templates/admin.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../login/src/main/resources/templates/admin.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../login/src/main/resources/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../login/src/main/resources/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../login/src/main/resources/templates/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../login/src/main/resources/templates/info.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../login/src/main/resources/templates/join.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../login/src/main/resources/templates/join.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../login/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../login/src/main/resources/templates/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,14 +34,14 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2aeYGRARtpWblSgWsb7SdkpAecB" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -59,23 +49,24 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="SpringSecurityJwtApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
@@ -95,10 +86,34 @@
       <option name="presentableId" value="Default" />
       <updated>1704680415839</updated>
       <workItem from="1704680417461" duration="12353000" />
+      <workItem from="1704720252188" duration="1538000" />
+      <workItem from="1704774983298" duration="4695000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit&#10;feat: 스프링 시큐리티 JWT 활용 로그인 구현 연습">
+      <option name="closed" value="true" />
+      <created>1704720524945</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704720524945</updated>
+    </task>
+    <task id="LOCAL-00002" summary="second commit&#10;feat: 스프링 시큐리티 JWT &#10;세션 정보 가져오기">
+      <option name="closed" value="true" />
+      <created>1704725795617</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704725795617</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit&#10;feat: 스프링 시큐리티 JWT 활용 로그인 구현 연습" />
+    <MESSAGE value="second commit&#10;feat: 스프링 시큐리티 JWT &#10;세션 정보 가져오기" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit&#10;feat: 스프링 시큐리티 JWT &#10;세션 정보 가져오기" />
   </component>
 </project>

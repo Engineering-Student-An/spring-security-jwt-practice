@@ -68,7 +68,7 @@ public class SecurityConfig {
         http
                 .addFilterAt(new LoginFilter(authenticationManager(configuration), jwtUtil), UsernamePasswordAuthenticationFilter.class);
 
-        // JWT 검증 필터 등록
+        // JWT 검증 필터 등록.
         http
                 .addFilterBefore(new JWTFilter(jwtUtil), LoginFilter.class);
 
