@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2068dbd2-ae4e-4a1d-8ca8-3bc1a96b6bc9" name="Changes" comment="second commit&#10;feat: 스프링 시큐리티 JWT &#10;세션 정보 가져오기">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../login/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../login/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../login/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../login/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../login/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../login/src/main/resources/templates/login.html" afterDir="false" />
-    </list>
+    <list default="true" id="2068dbd2-ae4e-4a1d-8ca8-3bc1a96b6bc9" name="Changes" comment="second commit&#10;feat: 스프링 시큐리티 JWT &#10;세션 정보 가져오기" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +80,7 @@
       <updated>1704680415839</updated>
       <workItem from="1704680417461" duration="12353000" />
       <workItem from="1704720252188" duration="1538000" />
-      <workItem from="1704774983298" duration="4695000" />
+      <workItem from="1704774983298" duration="4772000" />
     </task>
     <task id="LOCAL-00001" summary="first commit&#10;feat: 스프링 시큐리티 JWT 활용 로그인 구현 연습">
       <option name="closed" value="true" />
@@ -105,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704725795617</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="second commit&#10;feat: 스프링 시큐리티 JWT &#10;세션 정보 가져오기">
+      <option name="closed" value="true" />
+      <created>1704808509084</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704808509084</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
